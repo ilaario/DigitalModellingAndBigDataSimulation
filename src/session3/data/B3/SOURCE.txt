@@ -1,0 +1,6 @@
+Source: European Environment Agency (EEA), Monitoring of CO2 emissions from passenger cars -
+Regulation (EU) 2019/631, reporting year 2024 (final data).
+https://www.eea.europa.eu/en/datahub/datahubitem-view/fa8b1229-3db6-495d-b18e-9c9b3267c02b
+(c) European Environment Agency. Licence: CC BY 4.0 (EEA re-use policy, https://www.eea.europa.eu/en/legal-notice)
+
+Changes: sampled, aggregated or joined as described for the course, columns renamed, and modified for teaching purposes. Do not use this file as a source of facts about the original data.
