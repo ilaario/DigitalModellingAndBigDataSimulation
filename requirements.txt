@@ -1,0 +1,111 @@
+anyio==4.15.1
+appnope @ file:///Users/ec2-user/croot/appnope_1790674994379/work
+argon2-cffi==25.1.0
+argon2-cffi-bindings==26.1.0
+arrow==1.4.0
+asttokens @ file:///Users/ec2-user/croot/asttokens_1773135856585/work
+async-lru==2.3.0
+attrs==26.1.0
+babel==2.18.0
+beautifulsoup4==4.15.0
+bleach==6.4.0
+certifi==2026.7.22
+cffi==2.1.1
+charset-normalizer==3.5.2
+comm @ file:///Users/ec2-user/buildout/croot/comm_1763763170912/work
+contourpy==1.4.0
+cycler==0.12.1
+debugpy @ file:///Users/ec2-user/croot/debugpy_1783354545315/work
+defusedxml==0.7.1
+executing @ file:///Users/ec2-user/croot/executing_1787826286254/work
+fastjsonschema==2.22.2
+fonttools==4.66.1
+fqdn==1.6.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+ipykernel @ file:///Users/ec2-user/croot/ipykernel_1785763698141/work
+ipython @ file:///Users/ec2-user/croot/ipython_1790159699663/work
+ipython-pygments-lexers @ file:///Users/ec2-user/buildout/croot/ipython_pygments_lexers_1759952775363/work
+ipywidgets==8.1.9
+isoduration==20.11.0
+jedi @ file:///Users/ec2-user/croot/jedi_1778681758072/work
+jinja2==3.1.6
+json5==0.15.0
+jsonpointer==3.1.1
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+jupyter==1.1.1
+jupyter-builder==1.2.3
+jupyter-client @ file:///Users/ec2-user/croot/jupyter_client_1788857881907/work
+jupyter-console==6.6.3
+jupyter-core @ file:///Users/ec2-user/buildout/croot/jupyter_core_1765380151887/work
+jupyter-events==0.12.1
+jupyter-lsp==2.3.1
+jupyter-server==2.21.1
+jupyter-server-terminals==0.5.4
+jupyterlab==4.6.4
+jupyterlab-pygments==0.3.0
+jupyterlab-server==2.28.1
+jupyterlab-widgets==3.0.17
+kiwisolver==1.5.1
+lark==1.3.1
+markupsafe==3.0.4
+matplotlib==3.11.2
+matplotlib-inline @ file:///Users/ec2-user/croot/matplotlib-inline_1784795152102/work
+mistune==3.3.4
+narwhals==2.29.0
+nbclient==0.11.0
+nbconvert==7.17.1
+nbformat==5.11.1
+nest-asyncio2 @ file:///Users/ec2-user/croot/nest-asyncio2_1785322296688/work
+notebook==7.6.3
+notebook-shim==0.2.4
+numpy==2.5.3
+packaging==26.3
+pandas==3.0.6
+pandocfilters==1.5.1
+parso @ file:///Users/ec2-user/croot/parso_1778674014309/work
+pexpect @ file:///opt/miniconda3/conda-bld/pexpect_1762535936044/work
+pillow==12.3.0
+pip @ file:///home/task_178792877827441/croot/pip_1787928807296/work
+platformdirs @ file:///Users/ec2-user/croot/platformdirs_1791205642349/work
+plotly==7.1.0
+prometheus-client==0.26.0
+prompt-toolkit @ file:///Users/ec2-user/croot/prompt-toolkit-split_1785325123722/work
+psutil @ file:///Users/ec2-user/croot/psutil_1784875183974/work
+ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
+pure-eval @ file:///Users/ec2-user/croot/pure_eval_1791208551626/work
+pycparser==3.0
+pygments @ file:///Users/ec2-user/croot/pygments_1790343971012/work
+pyparsing==3.3.3
+python-dateutil @ file:///Users/ec2-user/buildout/croot/python-dateutil_1759952060416/work
+python-json-logger==4.2.0
+pyyaml==6.0.3
+pyzmq @ file:///Users/ec2-user/croot/pyzmq_1789390532332/work
+referencing==0.37.0
+requests==2.34.2
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rfc3987-syntax==1.1.0
+rpds-py==2026.9.1
+seaborn==0.13.2
+send2trash==2.1.0
+six @ file:///Users/ec2-user/buildout/croot/six_1759951952559/work
+soupsieve==2.10
+squarify==0.4.5
+stack-data @ file:///Users/ec2-user/buildout/croot/stack_data_1759953041043/work
+terminado==0.18.1
+tinycss2==1.5.1
+tornado @ file:///Users/ec2-user/croot/tornado_1790852152152/work
+traitlets @ file:///Users/ec2-user/croot/traitlets_1778743192105/work
+typing-extensions @ file:///Users/ec2-user/croot/typing_extensions_1784101001441/work
+tzdata==2026.5
+uri-template==1.3.0
+urllib3==2.8.0
+wcwidth @ file:///Users/ec2-user/croot/wcwidth_1783583483791/work
+webcolors==25.10.0
+webencodings==0.6.1
+websocket-client==1.9.2
+widgetsnbextension==4.0.16
